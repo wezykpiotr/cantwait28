@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "631231458147",
+    "firebase_url": "https://chatapplication-443d2.firebaseio.com",
+    "project_id": "chatapplication-443d2",
+    "storage_bucket": "chatapplication-443d2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:631231458147:android:f0478f438745b670d80156",
+        "android_client_info": {
+          "package_name": "com.piotrwezyk.cantwait28"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "631231458147-qb7hkk5dv55sfob5t0srtt0gbat1ek2u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzXpT7mvh5DOe0exoh2b_NTO_aXeL6rPY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "631231458147-qb7hkk5dv55sfob5t0srtt0gbat1ek2u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
